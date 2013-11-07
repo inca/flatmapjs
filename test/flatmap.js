@@ -1,6 +1,6 @@
 "use strict";
 
-var flatMap = require('../flatmap')
+var flatMap = require('../index')
   , assert = require('assert');
 
 var words = [ "one", "two", "three", "four", "five" ];
